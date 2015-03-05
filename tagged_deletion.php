@@ -17,7 +17,7 @@ function tagged_deletion_info() {
 	return array(
 			"name"  => "Tagged PM Deletion",
 			"description"=> "Allows user to delete all tag notification pms in inbox with the click of a single button.",
-			"website"        => "https://github.com/megan-starr9/TaggedDeletion/wiki",
+			"website"        => "https://github.com/megan-starr9/TaggedDeletion",
 			"author"        => "Megan Lyle",
 			"authorsite"    => "http://megstarr.com",
 			"version"        => "1.0",
