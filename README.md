@@ -1,4 +1,6 @@
-# TaggedDeletion
+# Minor Plugins for MYBB
+
+## TaggedDeletion
 A Mybb Plugin designed to work with forum tagging systems
 
 Many tagging systems on Mybb work through PM notifications.  These pms can quickly build up and fill up user's inboxes!
